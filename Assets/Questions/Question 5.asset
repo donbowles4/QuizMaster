@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Question 5
   m_EditorClassIdentifier: 
   strQuestion: Who created Stardew Valley?
+  strAnswers:
+  - ConcernedApe
+  - Phil Spencer
+  - Newgrounds
+  - Team17
+  intCorrectAnswerIndex: 0

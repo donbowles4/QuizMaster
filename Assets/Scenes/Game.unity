@@ -206,6 +206,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Answer Button (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1208619662283069016, guid: 8d2a88da65a9a3c4b9cb0054cba4a782, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 501c3e3f691124b4a980bf92e5c5311d, type: 3}
     - target: {fileID: 2081928322334607620, guid: 8d2a88da65a9a3c4b9cb0054cba4a782, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -288,6 +292,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2081928322334607620, guid: 8d2a88da65a9a3c4b9cb0054cba4a782, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3714681973450340106, guid: 8d2a88da65a9a3c4b9cb0054cba4a782, type: 3}
+      propertyPath: m_Interactable
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3714681973450340106, guid: 8d2a88da65a9a3c4b9cb0054cba4a782, type: 3}
@@ -564,6 +572,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Answer Button (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1208619662283069016, guid: 8d2a88da65a9a3c4b9cb0054cba4a782, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 501c3e3f691124b4a980bf92e5c5311d, type: 3}
     - target: {fileID: 2081928322334607620, guid: 8d2a88da65a9a3c4b9cb0054cba4a782, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -646,6 +658,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2081928322334607620, guid: 8d2a88da65a9a3c4b9cb0054cba4a782, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3714681973450340106, guid: 8d2a88da65a9a3c4b9cb0054cba4a782, type: 3}
+      propertyPath: m_Interactable
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3714681973450340106, guid: 8d2a88da65a9a3c4b9cb0054cba4a782, type: 3}
@@ -765,6 +781,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Answer Button (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1208619662283069016, guid: 8d2a88da65a9a3c4b9cb0054cba4a782, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 501c3e3f691124b4a980bf92e5c5311d, type: 3}
     - target: {fileID: 2081928322334607620, guid: 8d2a88da65a9a3c4b9cb0054cba4a782, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -847,6 +867,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2081928322334607620, guid: 8d2a88da65a9a3c4b9cb0054cba4a782, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3714681973450340106, guid: 8d2a88da65a9a3c4b9cb0054cba4a782, type: 3}
+      propertyPath: m_Interactable
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3714681973450340106, guid: 8d2a88da65a9a3c4b9cb0054cba4a782, type: 3}
@@ -1523,6 +1547,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Answer Button (0)
       objectReference: {fileID: 0}
+    - target: {fileID: 1208619662283069016, guid: 8d2a88da65a9a3c4b9cb0054cba4a782, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 501c3e3f691124b4a980bf92e5c5311d, type: 3}
     - target: {fileID: 2081928322334607620, guid: 8d2a88da65a9a3c4b9cb0054cba4a782, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -1605,6 +1633,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2081928322334607620, guid: 8d2a88da65a9a3c4b9cb0054cba4a782, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3714681973450340106, guid: 8d2a88da65a9a3c4b9cb0054cba4a782, type: 3}
+      propertyPath: m_Interactable
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3714681973450340106, guid: 8d2a88da65a9a3c4b9cb0054cba4a782, type: 3}
